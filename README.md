@@ -9,10 +9,10 @@ It is a great project and it helps new programmers build something tangeble and 
 
 # File guide:
 
+Glossory.gif : image for the glosorry app
 
-This can very well be modified, so feel free to modify the code and use.
+myGlosorry.py : Python script for the glossory project
 
-I love this project and so would you, it will give you a very good learning experience.
 
-Take a cruise at it 
+
 
